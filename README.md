@@ -1,5 +1,7 @@
 # Instructions for Capstone Project 1 - Online Resume
 
+https://justanfieldz.github.io/Online-Resume/
+
 Project Specifications
 
 1. Create an HTML file named index.html.
@@ -31,5 +33,6 @@ Project Specifications
 9. Save the index.html file and open it in a web browser to ensure that it displays correctly.
 
 10. Add your website to your GitHub to start building your portfolio.
+
 
 11. Publish your website using GitHub pages.
